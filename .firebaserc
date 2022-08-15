@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularproject-1da9e": {
+      "hosting": {
+        "messager": [
+          "angularproject-1da9e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angularproject-1da9e"
+  }
+}
